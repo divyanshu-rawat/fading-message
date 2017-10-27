@@ -99,7 +99,7 @@ function flicker() {
 
     // console.log(rand);
 
-	randomLetter = randomFromInterval(0, 5);
+	randomLetter = randomFromInterval(0, 8);
 
 	// console.log("eeeeeee" + randomLetter);
 
